@@ -1,2 +1,3 @@
-# Python-learning
-This is just for leaning purpose
+# Python-Learning
+
+> This is just for learning purpose
